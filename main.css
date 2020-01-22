@@ -2,3 +2,12 @@ body {
     background-color: whitesmoke;
     color: teal;
 }
+#dino-barn{
+    display: flex;
+}
+
+.dinosaur {
+    border: 2px solid salmon;
+    margin: 10px;
+    padding: 10px;
+}
